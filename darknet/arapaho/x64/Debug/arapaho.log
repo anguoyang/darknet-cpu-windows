@@ -1,0 +1,33 @@
+﻿  test.cpp
+d:\applicaton\devtools\opencv\3.1.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\applicaton\devtools\opencv\3.1.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\applicaton\devtools\opencv\3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\applicaton\devtools\opencv\3.1.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(29): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(30): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(40): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(41): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(44): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(45): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(46): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(50): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(51): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(52): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(57): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(58): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(64): warning C4305: “return”: 从“double”到“float”截断
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(76): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(86): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(87): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(88): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\src\activations.h(90): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\arapaho\test.cpp(85): warning C4305: “=”: 从“double”到“float”截断
+d:\project\cproject\darknet-cpu-windows\darknet\arapaho\test.cpp(169): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\cproject\darknet-cpu-windows\darknet\arapaho\test.cpp(214): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\arapaho\test.cpp(215): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\arapaho\test.cpp(216): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\arapaho\test.cpp(217): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\cproject\darknet-cpu-windows\darknet\arapaho\test.cpp(252): warning C4102: “clean_exit”: 未引用的标签
+  arapaho.vcxproj -> D:\Project\CProject\darknet-cpu-windows\darknet\arapaho\..\bin\win64\Debug\arapaho.exe
+  arapaho.vcxproj -> ..\bin\win64\Debug\arapaho.pdb (Full PDB)
